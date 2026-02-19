@@ -102,16 +102,15 @@
 
 # 🧠 Problem Solving
 
-💻 LeetCode  
-https://leetcode.com/u/Darshan26004/
+## 🧠 Problem Solving
+💻 [LeetCode](https://leetcode.com/u/Darshan26004/)
 
 ---
 
-# 📫 Contact Me
-
-📧 **Email:** daivadnyadarshan@gmail.com  
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/darshan-venkatesh-daivadnya-658004292  
+## 📫 Contact Me
+📧 Email: [daivadnyadarshan@gmail.com](mailto:daivadnyadarshan@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/darshan-venkatesh-daivadnya-658004292)  
+💻 [GitHub](https://github.com/Darshanven)
 
 ---
 
@@ -123,5 +122,5 @@ https://www.linkedin.com/in/darshan-venkatesh-daivadnya-658004292
 ---
 
 <p align="center">
-⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+⭐ <b>Always learning. Always building. Always improving.</b> ⭐
 </p>
