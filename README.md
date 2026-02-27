@@ -114,13 +114,6 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
 ⭐ <b>Always learning. Always building. Always improving.</b> ⭐
 </p>
