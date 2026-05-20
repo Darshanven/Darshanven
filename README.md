@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Venkatesh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;AI+%7C+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Data+Analist;Full+Stack+Developer" />
 </p>
 
 <p align="center">
